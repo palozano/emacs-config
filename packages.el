@@ -52,3 +52,13 @@
 
 ;; Python Black formatter
 (package! python-black)
+
+;; Just for testing installation from a tutorial
+;; (package! org-super-agenda)
+
+;; Config for Haskell
+(package! haskell-mode)
+(package! lsp-haskell)
+
+;; Nice way of writing
+;; (package! olivetti)
